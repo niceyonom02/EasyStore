@@ -1,0 +1,7 @@
+name: easystore
+version: 1.0.0
+main: EasyStore
+depend:
+  - customeconomy
+commands:
+  "상점":

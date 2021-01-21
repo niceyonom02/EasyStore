@@ -1,0 +1,18 @@
+category:
+  "TEST":
+    "0":
+      materialName: "DIAMOND"
+      basePurchasePrice: 1000
+      baseSellPrice: 1200
+      sellAmplitude: 10
+      purchaseAmplitude: 10
+      amountPerPurchase: 5
+      amountPerSell: 5
+    "1":
+      materialName: "DIAMOND_PICKAXE"
+      basePurchasePrice: 1030
+      baseSellPrice: 1210
+      sellAmplitude: 10
+      purchaseAmplitude: 10
+      amountPerPurchase: 5
+      amountPerSell: 5

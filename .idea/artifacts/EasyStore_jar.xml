@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EasyStore:jar">
+    <output-path>$USER_HOME$/OneDrive/바탕 화면/plugins</output-path>
+    <root id="archive" name="EasyStore.jar">
+      <element id="module-output" name="EasyStore" />
+    </root>
+  </artifact>
+</component>
